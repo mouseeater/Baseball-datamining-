@@ -83,7 +83,7 @@ LG:0, 두산:1, KIA:2, KT:3, NC:4, SSG:5, 롯데:6, 삼성:7, 키움: 8, 한화:
 </table>
 
 ### 💡 Ridge Regression  결과
-##### feature selection-25개 특성 선택
+##### selectKBest(ANOVA F-score) feature selection-25개 특성 선택
 ##### standard Scaler 사용 
 ##### K-fold cross validation 사용 n_split=5
 ##### GridSearch 이용한 하이퍼파라미터 튜닝-alpha:0.001
